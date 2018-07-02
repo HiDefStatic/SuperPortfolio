@@ -2,7 +2,7 @@
 
 > This is an upgraded portfolio application using Ruby on Rails 5.
 
-###Features
+### Features
 
 - Real time chat engine for comments
 - Blog
